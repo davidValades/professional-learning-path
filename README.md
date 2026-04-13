@@ -28,8 +28,8 @@ professional-learning-path/
 <details>
   <summary><b>📂 Cisco Networking Academy</b> | 🟩🟩⬜⬜⬜ (2 Completados)</summary>
 
-  - ✅ **Introduction to Cybersecurity:** Conceptos básicos, panorama actual de amenazas y protección de datos.
-  - ✅ **Python Essentials 1:** Fundamentos de programación orientada a la automatización y scripting.
+  - [X] **Introduction to Cybersecurity:** Conceptos básicos, panorama actual de amenazas y protección de datos.[Ver Certificación Oficial](https://www.credly.com/badges/5808574f-d19b-4a74-aeee-9f0e77e8cf97)
+  - [X] **Python Essentials 1:** Fundamentos de programación orientada a la automatización y scripting.[Ver Certificación Oficial](https://www.credly.com/badges/733a556d-04bd-4fc6-87b9-9a6171cab604)
   - [ ] **Cybersecurity Essentials:** (Planificado) Profundización en defensa de redes y políticas de seguridad.
 </details>
 
@@ -39,7 +39,7 @@ professional-learning-path/
   <summary><b>📂 Anthropic AI & Claude Development</b> | 🟩⬜⬜⬜⬜ (1 Completado | En progreso)</summary>
 
   **Fundamentos:**
-  - ✅ **Claude 101:** Prompt Engineering y uso core. [Ver Certificación Oficial](https://verify.skilljar.com/c/ph8veo96ehvs)
+  - [X] **Claude 101:** Prompt Engineering y uso core. [Ver Certificación Oficial](https://verify.skilljar.com/c/ph8veo96ehvs)
   - [ ] **AI Fluency: Framework & Foundations:** Colaboración ética, eficiente y segura con sistemas de IA.
 
   **Desarrollo de Software, API & Agentes:**
