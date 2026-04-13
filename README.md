@@ -13,7 +13,10 @@ Siguiendo una organización limpia, todos los títulos oficiales y credenciales 
 
 ```text
 professional-learning-path/
-├── certificados/           # Títulos oficiales en PDF (Cisco, Google, Anthropic)
+├── certificados/
+│   ├── cisco/              # Python Essentials, Intro to Cybersecurity...
+│   ├── anthropic/          # Claude 101, API, MCP...
+│   └── google-cloud/       # Certificaciones de GCP (Futuro)
 ├── ai-labs/                # Notas de Claude Code y MCP
 ├── cloud-labs/             # Laboratorios de Google Cloud
 └── cyber-notes/            # Apuntes de Ciberseguridad y Redes
@@ -23,19 +26,34 @@ professional-learning-path/
 ## 🛡️ Cybersecurity & Networking (Cisco)
 
 <details>
-  <summary><b>📂 Cisco Certified Courses</b> | ⬜⬜⬜⬜⬜ (Planificado/En curso)</summary>
+  <summary><b>📂 Cisco Networking Academy</b> | 🟩🟩⬜⬜⬜ (2 Completados)</summary>
 
-  - [ ] **Cybersecurity Essentials:** Fundamentos de protección de datos y defensa de redes.
-  - [ ] **Python for Networking:** Automatización de tareas de red mediante scripts.
+  - ✅ **Introduction to Cybersecurity:** Conceptos básicos, panorama actual de amenazas y protección de datos.
+  - ✅ **Python Essentials 1:** Fundamentos de programación orientada a la automatización y scripting.
+  - [ ] **Cybersecurity Essentials:** (Planificado) Profundización en defensa de redes y políticas de seguridad.
 </details>
 
 ## 🧠 Artificial Intelligence (Anthropic)
 
 <details open>
-  <summary><b>📂 Claude 101 & Claude Code</b> | 🟩🟩⬜⬜⬜ (En progreso)</summary>
+  <summary><b>📂 Anthropic AI & Claude Development</b> | 🟩⬜⬜⬜⬜ (1 Completado | En progreso)</summary>
 
-  - ✅ **Claude 101:** Fundamentos y Prompt Engineering. [Ver Certificación Oficial](https://verify.skilljar.com/c/ph8veo96ehvs)
-  - 🔄 **Claude Code in Action:** Integración de MCP (Model Context Protocol) y automatización de flujos de desarrollo.
+  **Fundamentos:**
+  - ✅ **Claude 101:** Prompt Engineering y uso core. [Ver Certificación Oficial](https://verify.skilljar.com/c/ph8veo96ehvs)
+  - [ ] **AI Fluency: Framework & Foundations:** Colaboración ética, eficiente y segura con sistemas de IA.
+
+  **Desarrollo de Software, API & Agentes:**
+  - 🔄 **Claude Code in Action:** Integración de IA en el workflow de desarrollo.
+  - [ ] **Claude Code 101 & Intro to Claude Cowork:** Uso de plugins, skills y flujos de trabajo multi-paso en proyectos reales.
+  - [ ] **Building with the Claude API:** Dominio integral de los modelos de Anthropic mediante su API.
+  - [ ] **Intro to Agent Skills & Subagents:** Creación de sub-agentes, delegación de tareas y manejo de contexto limpio en flujos complejos.
+
+  **Model Context Protocol (MCP) - Python:**
+  - [ ] **Introduction to MCP:** Construcción de servidores/clientes MCP desde cero usando Python (conexión de Claude con servicios externos).
+  - [ ] **MCP Advanced Topics:** Patrones de implementación avanzada, sampling, notificaciones y acceso a sistemas de archivos.
+
+  **Cloud AI Integrations:**
+  - [ ] **Claude with Google Cloud's Vertex AI:** Integración y despliegue de modelos de Anthropic en la infraestructura de GCP.
 </details>
 
 ## ☁️ Cloud Computing (Google Cloud)
