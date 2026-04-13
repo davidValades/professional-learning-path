@@ -35,7 +35,7 @@ professional-learning-path/
 
 ## 🧠 Artificial Intelligence (Anthropic)
 
-<details open>
+<details>
   <summary><b>📂 Anthropic AI & Claude Development</b> | 🟩⬜⬜⬜⬜ (1 Completado | En progreso)</summary>
 
   **Fundamentos:**
