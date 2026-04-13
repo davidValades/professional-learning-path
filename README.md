@@ -58,13 +58,25 @@ professional-learning-path/
 
 ## ☁️ Cloud Computing (Google Cloud)
 
-<details>
-  <summary><b>📂 Google Cloud Skills Boost</b> | ⬜⬜⬜⬜⬜ (Planificado)</summary>
+<details open>
+  <summary><b>📂 Google Cloud Skills Boost</b> | 🟩⬜⬜⬜⬜ (En progreso)</summary>
 
   *Hoja de ruta estratégica para escalar infraestructuras locales (Homelab) a entornos Cloud empresariales:*
-  - [ ] **Associate Cloud Engineer:** Gestión de infraestructura, redes y servicios cloud.
-  - [ ] **Security Engineer Path:** Implementación de arquitecturas seguras y cumplimiento normativo en la nube.
-  - [ ] **Hybrid and Multi-Cloud Architect:** Administración de aplicaciones basadas en contenedores entre entornos locales y en la nube.
+
+  **1. Associate Cloud Engineer (ACE) Path** 🔄
+  - [x] **A Tour of Google Cloud Hands-on Labs:** Gestión de Proyectos, Recursos, IAM Roles y APIs.
+  - [ ] **Preparing for Your ACE Journey:** Estructuración y plan de estudio para la certificación.
+  - [ ] **Essential Infrastructure (Foundation & Core):** Arquitectura base, Redes VPC y Compute Engine.
+  - [ ] **Google Cloud Databases:** Estrategia relacional/NoSQL con Cloud SQL, Spanner y AlloyDB.
+  - [ ] **Elastic Infrastructure:** Balanceadores de carga, Autoescalado y automatización.
+  - [ ] **Google Kubernetes Engine (GKE):** Orquestación y gestión de clústeres.
+  - [ ] **Cloud Run Fundamentals:** Despliegue de aplicaciones Serverless basadas en contenedores.
+  - [ ] **Logging, Monitoring & Observability:** Gestión de rendimiento, trazas y métricas.
+  - [ ] **Skill Badges (Hands-on):** Laboratorios prácticos de Load Balancing, App Dev, Networking e Infraestructura como Código (Terraform).
+
+  **2. Especializaciones Futuras** ⏳
+  - [ ] **Security Engineer Path:** Implementación de arquitecturas seguras y cumplimiento normativo.
+  - [ ] **Hybrid and Multi-Cloud Architect:** Administración de contenedores entre entornos locales y en la nube.
 </details>
 
 ---
