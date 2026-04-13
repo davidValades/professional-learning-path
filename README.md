@@ -58,7 +58,7 @@ professional-learning-path/
 
 ## ☁️ Cloud Computing (Google Cloud)
 
-<details open>
+<details>
   <summary><b>📂 Google Cloud Skills Boost</b> | 🟩⬜⬜⬜⬜ (En progreso)</summary>
 
   *Hoja de ruta estratégica para escalar infraestructuras locales (Homelab) a entornos Cloud empresariales:*
