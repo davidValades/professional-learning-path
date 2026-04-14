@@ -109,7 +109,3 @@ _Ruta integral de IA Generativa y Arquitectura de Soluciones:_
 ---
 
 _⭐ "The more I learn, the more I realize how much I don't know." - Documentado por [David Valadés Navarro](https://github.com/davidValades)._
-
-```
-
-```
