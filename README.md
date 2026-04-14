@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Estado-En_Progreso_🚀-2ea44f?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-005FB8?style=for-the-badge&logo=cisco&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 Este repositorio centraliza mi formación complementaria, certificaciones y especializaciones técnicas fuera del currículo principal de mis estudios Full Stack. Aquí documento mi progreso en Ciberseguridad, Cloud Computing e Inteligencia Artificial aplicada al desarrollo de software.
@@ -16,20 +17,19 @@ professional-learning-path/
 ├── certificados/
 │   ├── cisco/              # Python Essentials, Intro to Cybersecurity...
 │   ├── anthropic/          # Claude 101, API, MCP...
-│   └── google-cloud/       # Certificaciones de GCP (Futuro)
-├── ai-labs/                # Notas de Claude Code y MCP
-├── cloud-labs/             # Laboratorios de Google Cloud
+│   ├── google-cloud/       # Certificaciones de GCP
+│   └── azure/              # Certificaciones de Microsoft Azure
+├── ai-labs/                # Notas de Claude Code, MCP y Azure AI
+├── cloud-labs/             # Laboratorios de Google Cloud y Azure Infra
 └── cyber-notes/            # Apuntes de Ciberseguridad y Redes
-```
----
 
 ## 🛡️ Cybersecurity & Networking (Cisco)
 
 <details>
   <summary><b>📂 Cisco Networking Academy</b> | 🟩🟩⬜⬜⬜ (2 Completados)</summary>
 
-  - [X] **Introduction to Cybersecurity:** Conceptos básicos, panorama actual de amenazas y protección de datos.[Ver Certificación Oficial](https://www.credly.com/badges/5808574f-d19b-4a74-aeee-9f0e77e8cf97)
-  - [X] **Python Essentials 1:** Fundamentos de programación orientada a la automatización y scripting.[Ver Certificación Oficial](https://www.credly.com/badges/733a556d-04bd-4fc6-87b9-9a6171cab604)
+  - [X] **Introduction to Cybersecurity:** Conceptos básicos, panorama actual de amenazas y protección de datos. [Ver Certificación Oficial](https://www.credly.com/badges/5808574f-d19b-4a74-aeee-9f0e77e8cf97)
+  - [X] **Python Essentials 1:** Fundamentos de programación orientada a la automatización y scripting. [Ver Certificación Oficial](https://www.credly.com/badges/733a556d-04bd-4fc6-87b9-9a6171cab604)
   - [ ] **Cybersecurity Essentials:** (Planificado) Profundización en defensa de redes y políticas de seguridad.
 </details>
 
@@ -51,9 +51,6 @@ professional-learning-path/
   **Model Context Protocol (MCP) - Python:**
   - [ ] **Introduction to MCP:** Construcción de servidores/clientes MCP desde cero usando Python (conexión de Claude con servicios externos).
   - [ ] **MCP Advanced Topics:** Patrones de implementación avanzada, sampling, notificaciones y acceso a sistemas de archivos.
-
-  **Cloud AI Integrations:**
-  - [ ] **Claude with Google Cloud's Vertex AI:** Integración y despliegue de modelos de Anthropic en la infraestructura de GCP.
 </details>
 
 ## ☁️ Cloud Computing (Google Cloud)
@@ -79,5 +76,27 @@ professional-learning-path/
   - [ ] **Hybrid and Multi-Cloud Architect:** Administración de contenedores entre entornos locales y en la nube.
 </details>
 
+## 🟦 Microsoft Azure (IA & Architecture)
+
+<details>
+  <summary><b>📂 Microsoft Learn Path</b> | ⬜⬜⬜⬜⬜ (Planificado)</summary>
+
+  *Ruta integral de IA Generativa y Arquitectura de Soluciones:*
+
+  **Nivel 1: Fundamentos de IA (AI-900)**
+  - [ ] Conceptos de Machine Learning y servicios de IA en Azure.
+  - [ ] Principios de IA responsable.
+
+  **Nivel 2: Ingeniero de IA Asociado (AI-102)** 🚀
+  - [ ] Integración de Azure OpenAI y Modelos de Lenguaje (LLMs).
+  - [ ] Implementación de RAG (Retrieval-Augmented Generation).
+  - [ ] Desarrollo de Agentes de IA y soluciones cognitivas con Python SDK.
+
+  **Nivel 3: Arquitecto de Soluciones Experto (AZ-104 + AZ-305)**
+  - [ ] **AZ-104:** Administración de identidad, almacenamiento, cómputo y redes virtuales.
+  - [ ] **AZ-305:** Diseño de infraestructura, continuidad de negocio y arquitecturas de datos a escala empresarial.
+</details>
+
 ---
 *⭐ "The more I learn, the more I realize how much I don't know." - Documentado por [David Valadés Navarro](https://github.com/davidValades).*
+```
