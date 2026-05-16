@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Estado-En_Progreso_🚀-2ea44f?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-005FB8?style=for-the-badge&logo=cisco&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
@@ -82,25 +83,32 @@ _Hoja de ruta estratégica para escalar infraestructuras locales (Homelab) a ent
 - [ ] **Hybrid and Multi-Cloud Architect:** Administración de contenedores entre entornos locales y en la nube.
 </details>
 
-## 🟦 Microsoft Azure (IA & Architecture)
+## 🟦 Microsoft Azure & AI Ecosystem (Microsoft Learn)
 
 <details>
-  <summary><b>📂 Microsoft Learn Path</b> | ⬜⬜⬜⬜⬜ (Planificado)</summary>
+  <summary><b>📂 Microsoft Learn Path & AI Credentialing</b> | ⬜⬜⬜⬜⬜ (0/4 Completados | En progreso)</summary>
 
-_Ruta integral de IA Generativa y Arquitectura de Soluciones:_
+_Ruta integral de IA Generativa, Desarrollo de Agentes y Arquitectura de Soluciones:_
 
-**Nivel 1: Fundamentos de IA (AI-900)**
+**Nivel 1: Fundamentos de IA (AI-900)** ⏳
 
 - [ ] Conceptos de Machine Learning y servicios de IA en Azure.
 - [ ] Principios de IA responsable.
 
-**Nivel 2: Ingeniero de IA Asociado (AI-102)** 🚀
+**Nivel 2: Agentic AI Developer (Microsoft)** 🔄
+
+- [ ] **Arquitectura de Agentes:** Diseño conceptual, ciclo de vida del agente y patrones de autonomía.
+- [ ] **Ecosistema Core (MCP & Tools):** Integración de Model Context Protocol (MCP), desarrollo de herramientas personalizadas (tools) y control de ejecución.
+- [ ] **Memoria y Contexto:** Gestión de estado persistente, ventanas de contexto y recuperación eficiente de información.
+- [ ] **Sistemas Multi-Agente & Guardrails:** Orquestación, delegación entre agentes, protocolos de comunicación y diseño de barandillas de seguridad (guardrails).
+
+**Nivel 3: Ingeniero de IA Asociado (AI-102)** 🚀
 
 - [ ] Integración de Azure OpenAI y Modelos de Lenguaje (LLMs).
 - [ ] Implementación de RAG (Retrieval-Augmented Generation).
 - [ ] Desarrollo de Agentes de IA y soluciones cognitivas con Python SDK.
 
-**Nivel 3: Arquitecto de Soluciones Experto (AZ-104 + AZ-305)**
+**Nivel 4: Arquitecto de Soluciones Experto (AZ-104 + AZ-305)** ⏳
 
 - [ ] **AZ-104:** Administración de identidad, almacenamiento, cómputo y redes virtuales.
 - [ ] **AZ-305:** Diseño de infraestructura, continuidad de negocio y arquitecturas de datos a escala empresarial.
