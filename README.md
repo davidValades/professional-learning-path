@@ -58,6 +58,7 @@ Plataforma principal de laboratorios interactivos: [Acceso a KodeKloud Studio La
 - [ ] **Jenkins (5 Labs):** Pipelines de integración y despliegue continuo (CI/CD), instalación, backups y uso de CLI.
 
 - [ ] **Assessments (5 Labs):** Evaluación práctica y resolución de problemas en escenarios de infraestructura reales.
+---
 
 ---
 
