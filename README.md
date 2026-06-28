@@ -134,12 +134,11 @@ Hoja de ruta estratégica para escalar infraestructuras locales (Homelab) a ento
 
 ## 🟦 Microsoft Azure & AI Ecosystem (Microsoft Learn)
 
-Ruta integral de IA Generativa, Desarrollo de Agentes y Arquitectura de Soluciones:
+Ruta integral de IA Generativa, Fundamentos de C# y Desarrollo de Agentes:
 
 ### Nivel 1: Fundamentos de IA (AI-900) ⏳
 
 - [ ] Conceptos de Machine Learning y servicios de IA en Azure.
-
 - [ ] Principios de IA responsable.
 
 ### Nivel 1.1: C# Fundamentals 🔄
