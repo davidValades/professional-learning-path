@@ -142,6 +142,10 @@ Ruta integral de IA Generativa, Desarrollo de Agentes y Arquitectura de Solucion
 
 - [ ] Principios de IA responsable.
 
+### Nivel 1.1: C# Fundamentals 🔄
+
+- [ ] **Write your first C# program:** Primeros pasos para aprender C#, incluyendo la creación y ejecución del primer programa "Hello World". [Ver módulo](https://learn.microsoft.com/es-es/training/modules/csharp-write-first/2-exercise-hello-world) | [Repo de estudio](https://github.com/davidValades/csharp-learning-path)
+
 ### Nivel 2: Agentic AI Developer (Microsoft) 🔄
 
 - [ ] **Arquitectura de Agentes:** Diseño conceptual, ciclo de vida del agente y patrones de autonomía.
