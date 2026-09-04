@@ -143,7 +143,11 @@ Ruta integral de IA Generativa, Fundamentos de C# y Desarrollo de Agentes:
 
 ### Nivel 1.1: C# Fundamentals 🔄
 
-- [ ] **Write your first C# program:** Primeros pasos para aprender C#, incluyendo la creación y ejecución del primer programa "Hello World". [Ver módulo](https://learn.microsoft.com/es-es/training/modules/csharp-write-first/2-exercise-hello-world) | [Repo de estudio](https://github.com/davidValades/csharp-learning-path)
+- [x] **Escribir el primer código con C# (Introducción a C#, parte 1):** Ruta completada en Microsoft Learn. Primeros programas, variables, tipos de datos, formato de cadenas y operaciones aritméticas. [🏆 Ver trofeo](https://learn.microsoft.com/api/achievements/share/es-es/DAVIDVALADSNAVARRO-9337/XP6BHEHY?sharingId=2BE8DF1D77A86BB2) | [Repo de estudio](https://github.com/davidValades/csharp-learning-path)
+
+- 📝 **Apuntes de C#:** Variables, literales, consola, interpolación, escapes, Unicode y división decimal. [Consultar apuntes](https://github.com/davidValades/csharp-learning-path/blob/main/notes/introduccion-csharp.md)
+
+- 💻 **Tres desafíos documentados:** Mensaje con literales y variables; rutas en inglés y ruso; conversión de Fahrenheit a Celsius. Incluyen soluciones, explicaciones y práctica pendiente. [Ver registro de desafíos](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md)
 
 ### Nivel 2: Agentic AI Developer (Microsoft) 🔄
 
