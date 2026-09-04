@@ -10,6 +10,22 @@
 
 Este repositorio centraliza mi formación complementaria, certificaciones y especializaciones técnicas fuera del currículo principal de mis estudios Full Stack. Aquí documento mi progreso en Ciberseguridad, Cloud Computing, DevOps e Inteligencia Artificial aplicada al desarrollo de software.
 
+## 🧭 Índice principal de aprendizaje
+
+**`professional-learning-path` es el punto de entrada a mi formación.** Aquí mantengo el resumen de progreso, los logros y los enlaces a cada curso. Los apuntes, ejercicios, soluciones y proyectos ejecutables se documentan en sus repositorios de estudio.
+
+| Curso | Repositorio de estudio | Avance documentado | Accesos directos |
+| --- | --- | --- | --- |
+| C# · Microsoft Learn | [csharp-learning-path](https://github.com/davidValades/csharp-learning-path) | Parte 1 completada; práctica de lógica de decisión con `if` | [Apuntes](https://github.com/davidValades/csharp-learning-path/blob/main/notes/introduccion-csharp.md) · [Desafíos](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md) · [Juego de dados](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/04-logica-if) |
+| SQL · Oracle | [sql-learning-path](https://github.com/davidValades/sql-learning-path) | Ruta de estudio en curso | [Temario y seguimiento](https://github.com/davidValades/sql-learning-path/blob/main/README.md) |
+
+### Cómo mantengo conectados los cursos
+
+- Cada curso tiene un repositorio propio, con nombres como `csharp-learning-path` o `sql-learning-path`, y un enlace de vuelta a este índice.
+- Las nuevas prácticas se guardan en el repositorio del curso. Aquí se actualiza el resumen y se enlaza el material correspondiente.
+- Los trofeos y certificados se resumen con enlaces a las credenciales disponibles; no se duplica el contenido completo de los ejercicios.
+- Los próximos cursos se incorporarán a esta tabla cuando exista su repositorio de estudio.
+
 ## 📂 Estructura de Certificados y Laboratorios
 
 Siguiendo una organización limpia, todos los títulos oficiales y credenciales se encuentran en la carpeta `/certificados`:
@@ -148,6 +164,8 @@ Ruta integral de IA Generativa, Fundamentos de C# y Desarrollo de Agentes:
 - 📝 **Apuntes de C#:** Variables, literales, consola, interpolación, escapes, Unicode y división decimal. [Consultar apuntes](https://github.com/davidValades/csharp-learning-path/blob/main/notes/introduccion-csharp.md)
 
 - 💻 **Tres desafíos documentados:** Mensaje con literales y variables; rutas en inglés y ruso; conversión de Fahrenheit a Celsius. Incluyen soluciones, explicaciones y práctica pendiente. [Ver registro de desafíos](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md)
+
+- 🎲 **Lógica de decisión con `if`:** Ejercicio guiado del juego de dados y práctica de `Contains()`, con proyecto ejecutable. La acumulación de bonos en los triples queda documentada para la siguiente unidad. [Ver código y explicación](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/04-logica-if)
 
 ### Nivel 2: Agentic AI Developer (Microsoft) 🔄
 
