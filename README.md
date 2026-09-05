@@ -16,7 +16,7 @@ Este repositorio centraliza mi formación complementaria, certificaciones y espe
 
 | Curso | Repositorio de estudio | Avance documentado | Accesos directos |
 | --- | --- | --- | --- |
-| C# · Microsoft Learn | [csharp-learning-path](https://github.com/davidValades/csharp-learning-path) | Parte 1 completada; juego de dados y reglas de renovación de suscripciones documentados | [Apuntes](https://github.com/davidValades/csharp-learning-path/blob/main/notes/introduccion-csharp.md) · [Desafíos y prácticas](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md) |
+| C# · Microsoft Learn | [csharp-learning-path](https://github.com/davidValades/csharp-learning-path) | Parte 1 completada; lógica de decisión, reglas de negocio y `Math.Max` documentados | [Apuntes](https://github.com/davidValades/csharp-learning-path/blob/main/notes/introduccion-csharp.md) · [Desafíos y prácticas](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md) |
 | SQL · Oracle | [sql-learning-path](https://github.com/davidValades/sql-learning-path) | Ruta de estudio en curso | [Temario y seguimiento](https://github.com/davidValades/sql-learning-path/blob/main/README.md) |
 
 ### Cómo mantengo conectados los cursos
@@ -165,9 +165,11 @@ Ruta integral de IA Generativa, Fundamentos de C# y Desarrollo de Agentes:
 
 - 💻 **Tres desafíos documentados:** Mensaje con literales y variables; rutas en inglés y ruso; conversión de Fahrenheit a Celsius. Incluyen soluciones, explicaciones y práctica pendiente. [Ver registro de desafíos](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md)
 
-- 🎲 **Lógica de decisión con `if`:** Ejercicio guiado del juego de dados y práctica de `Contains()`, con proyecto ejecutable. La acumulación de bonos en los triples queda documentada para la siguiente unidad. [Ver código y explicación](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/04-logica-if)
+- 🎲 **Lógica de decisión con `if`:** Ejercicio guiado del juego de dados y práctica de `Contains()`, con proyecto ejecutable. La acumulación de bonos en los triples queda documentada para la siguiente unidad. [Ver código y explicación](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/04-logica-decision-if)
 
-- 💳 **Renovación de suscripciones:** Desafío de reglas de negocio con `if / else if`, prioridades y descuentos. Solución comprobada para los 12 valores posibles de días restantes. [Ver código y revisión](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/05-nuevo-ejercicio)
+- 💳 **Renovación de suscripciones:** Desafío de reglas de negocio con `if / else if`, prioridades y descuentos. Sus 12 rutas lógicas están revisadas y la diferencia de puntuación del intento está documentada. [Ver código y revisión](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/05-renovacion-suscripciones)
+
+- ➗ **Método `Math.Max`:** Desafío para buscar y utilizar un método de `System.Math` que devuelva el mayor de dos enteros. [Ver código y revisión](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/06-metodo-math-max)
 
 ### Nivel 2: Agentic AI Developer (Microsoft) 🔄
 
