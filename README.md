@@ -16,7 +16,7 @@ Este repositorio centraliza mi formación complementaria, certificaciones y espe
 
 | Curso | Repositorio de estudio | Avance documentado | Accesos directos |
 | --- | --- | --- | --- |
-| C# · Microsoft Learn | [csharp-learning-path](https://github.com/davidValades/csharp-learning-path) | Parte 1 completada; lógica de decisión, reglas de negocio y `Math.Max` documentados | [Apuntes](https://github.com/davidValades/csharp-learning-path/blob/main/notes/introduccion-csharp.md) · [Desafíos y prácticas](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md) |
+| C# · Microsoft Learn | [csharp-learning-path](https://github.com/davidValades/csharp-learning-path) | Parte 1 completada; lógica de decisión, métodos y recorrido de matrices documentados | [Apuntes](https://github.com/davidValades/csharp-learning-path/blob/main/notes/introduccion-csharp.md) · [Desafíos y prácticas](https://github.com/davidValades/csharp-learning-path/blob/main/exercises/desafios-microsoft-learn.md) |
 | SQL · Oracle | [sql-learning-path](https://github.com/davidValades/sql-learning-path) | Ruta de estudio en curso | [Temario y seguimiento](https://github.com/davidValades/sql-learning-path/blob/main/README.md) |
 
 ### Cómo mantengo conectados los cursos
@@ -170,6 +170,8 @@ Ruta integral de IA Generativa, Fundamentos de C# y Desarrollo de Agentes:
 - 💳 **Renovación de suscripciones:** Desafío de reglas de negocio con `if / else if`, prioridades y descuentos. Sus 12 rutas lógicas están revisadas y la diferencia de puntuación del intento está documentada. [Ver código y revisión](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/05-renovacion-suscripciones)
 
 - ➗ **Método `Math.Max`:** Desafío para buscar y utilizar un método de `System.Math` que devuelva el mayor de dos enteros. [Ver código y revisión](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/06-metodo-math-max)
+
+- 📦 **Inventario con `foreach`:** Recorrido de una matriz de contenedores, numeración de cada elemento y cálculo de una suma acumulada. [Ver código y revisión](https://github.com/davidValades/csharp-learning-path/tree/main/exercises/07-foreach-inventario)
 
 ### Nivel 2: Agentic AI Developer (Microsoft) 🔄
 
